@@ -37,5 +37,8 @@ https://medium.datadriveninvestor.com/api-security-testing-part-1-b0fc38228b93
 Part 2
 https://saumyaprakashrana-51250.medium.com/api-security-testing-part-2-67ae9fb9c12
 
+Playground for learning
+https://www.akto.io/test/access-control-bypass-by-changing-request-method-to-head
+  
 </pre>
 
